@@ -1,6 +1,6 @@
 # JobsBoard
 
-This project captures data from www.indeed.com that was posted in last last 7 days
+This project captures data from Indeed.com that was posted in last last 7 days
 It captures below data points -
   1) Company 
   2) Job title
